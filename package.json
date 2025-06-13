@@ -67,7 +67,6 @@
         "vuex": "^3.0.1"
     },
     "devDependencies": {
-        "@vue/server-test-utils": "^1.0.0-beta.20",
         "@vue/test-utils": "^1.0.0-beta.20",
         "babel-core": "^6.0.0",
         "babel-jest": "^23.2.0",
@@ -80,12 +79,10 @@
         "cross-env": "^1.0.6",
         "envify": "^3.4.1",
         "jest": "^23.2.0",
-        "jest-vue-preprocessor": "^1.4.0",
         "npm-run-all": "^2.1.2",
         "uglify-js": "^2.5.0",
         "vue-masonry-css": "^1.0.2",
-        "vue-template-compiler": "^2.7.16",
-        "vue-test-utils": "^1.0.0-beta.11",
+        "vue-template-compiler": "^2.5.11",
         "vueify": "^9.1.0",
         "watchify": "^3.4.0"
     },
