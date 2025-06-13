@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-1 {
+        stroke: #212d59;
+        stroke-width: 1.5px;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: none;
+      }
+
+      .cls-4 {
+        fill: #212d59;
+      }
+    </style>
+  </defs>
+  <g id="Group_44" data-name="Group 44" transform="translate(-76.724 58.8)">
+    <path id="check_1_" data-name="check (1)" class="cls-1" d="M10.53,6,6.041,10.489,4,8.449" transform="translate(78.724 -55.668)"/>
+    <g id="home" transform="translate(73.724 -60.8)">
+      <g id="Path_229" data-name="Path 229" class="cls-2">
+        <path class="cls-3" d="M3,9l9-7,9,7V20a2,2,0,0,1-2,2H5a2,2,0,0,1-2-2Z"/>
+        <path class="cls-4" d="M 12 3.900293350219727 L 4.5 9.733626365661621 L 4.5 20 C 4.5 20.27569961547852 4.724300384521484 20.5 5 20.5 L 19 20.5 C 19.27569961547852 20.5 19.5 20.27569961547852 19.5 20 L 19.5 9.733626365661621 L 12 3.900293350219727 M 12 2 L 21 9 L 21 20 C 21 21.10457038879395 20.10457038879395 22 19 22 L 5 22 C 3.895429611206055 22 3 21.10457038879395 3 20 L 3 9 L 12 2 Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

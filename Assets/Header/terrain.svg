@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 32.943">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e15f6c;
+        stroke: #801831;
+        stroke-miterlimit: 10;
+        stroke-width: 0.8px;
+      }
+    </style>
+  </defs>
+  <path id="terrain" class="cls-1" d="M324.7,18.029c0-7.571,4.929-12.929,12-12.929,7,0,12,5.357,12,12.929,0,8.071-11.286,19.214-12,19.214S324.7,26.029,324.7,18.029Zm16.5-.643a4.481,4.481,0,1,0-1.312,3.187,4.5,4.5,0,0,0,1.313-3.187Z" transform="translate(-324.3 -4.7)"/>
+</svg>

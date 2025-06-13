@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 169 89">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: rgba(49,189,252,0.14);
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke: #31bdfc;
+        stroke-width: 5px;
+      }
+
+      .cls-4 {
+        fill: rgba(226,246,255,0.38);
+      }
+
+      .cls-5, .cls-8 {
+        fill: none;
+      }
+
+      .cls-6, .cls-7 {
+        stroke: none;
+      }
+
+      .cls-7 {
+        fill: #31bdfc;
+      }
+
+      .cls-9 {
+        filter: url(#Rectangle_73);
+      }
+    </style>
+    <filter id="Rectangle_73" x="0" y="27.5" width="169" height="60" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feFlood flood-opacity="0.082"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_46" data-name="Group 46" transform="translate(-1914.5 -3226)">
+    <g id="Path_202" data-name="Path 202" class="cls-1" transform="translate(1940 3226)">
+      <path class="cls-6" d="M 114.5 36.5 L 2.5 36.5 L 2.5 10 C 2.5 5.86448335647583 5.86448335647583 2.5 10 2.5 L 107 2.5 C 111.1355133056641 2.5 114.5 5.86448335647583 114.5 10 L 114.5 36.5 Z"/>
+      <path class="cls-7" d="M 10 5 C 7.242996215820312 5 5 7.243000030517578 5 10 L 5 34 L 112 34 L 112 10 C 112 7.243000030517578 109.7570037841797 5 107 5 L 10 5 M 10 0 L 107 0 C 112.5228424072266 0 117 4.477161407470703 117 10 L 117 39 L 0 39 L 0 10 C 0 4.477161407470703 4.477142333984375 0 10 0 Z"/>
+    </g>
+    <g id="Rectangle_74" data-name="Rectangle 74" class="cls-2" transform="translate(2003 3244)">
+      <path class="cls-6" d="M5,0H40a5,5,0,0,1,5,5V21a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5A5,5,0,0,1,5,0Z"/>
+      <rect class="cls-8" x="2.5" y="2.5" width="40" height="16" rx="2.5"/>
+    </g>
+    <g id="Rectangle_75" data-name="Rectangle 75" class="cls-2" transform="translate(1950 3244)">
+      <path class="cls-6" d="M5,0H40a5,5,0,0,1,5,5V21a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5A5,5,0,0,1,5,0Z"/>
+      <rect class="cls-8" x="2.5" y="2.5" width="40" height="16" rx="2.5"/>
+    </g>
+    <g class="cls-9" transform="matrix(1, 0, 0, 1, 1914.5, 3226)">
+      <g id="Rectangle_73-2" data-name="Rectangle 73" class="cls-3" transform="translate(10.5 35)">
+        <path class="cls-6" d="M10,0H138a10,10,0,0,1,10,10V36a3,3,0,0,1-3,3H3a3,3,0,0,1-3-3V10A10,10,0,0,1,10,0Z"/>
+        <path class="cls-8" d="M10,2.5H138a7.5,7.5,0,0,1,7.5,7.5V36a.5.5,0,0,1-.5.5H3a.5.5,0,0,1-.5-.5V10A7.5,7.5,0,0,1,10,2.5Z"/>
+      </g>
+    </g>
+    <g id="Rectangle_76" data-name="Rectangle 76" class="cls-4" transform="translate(1932 3297)">
+      <path class="cls-6" d="M0,0H15a0,0,0,0,1,0,0V15a3,3,0,0,1-3,3H3a3,3,0,0,1-3-3V0A0,0,0,0,1,0,0Z"/>
+      <path class="cls-8" d="M5,2.5h5A2.5,2.5,0,0,1,12.5,5V15a.5.5,0,0,1-.5.5H3a.5.5,0,0,1-.5-.5V5A2.5,2.5,0,0,1,5,2.5Z"/>
+    </g>
+    <g id="Rectangle_72" data-name="Rectangle 72" class="cls-4" transform="translate(2053 3297)">
+      <path class="cls-6" d="M0,0H15a0,0,0,0,1,0,0V15a3,3,0,0,1-3,3H3a3,3,0,0,1-3-3V0A0,0,0,0,1,0,0Z"/>
+      <path class="cls-8" d="M5,2.5h5A2.5,2.5,0,0,1,12.5,5V15a.5.5,0,0,1-.5.5H3a.5.5,0,0,1-.5-.5V5A2.5,2.5,0,0,1,5,2.5Z"/>
+    </g>
+    <path id="Path_204" data-name="Path 204" class="cls-5" d="M147,0H0" transform="translate(1925.5 3285.5)"/>
+  </g>
+</svg>

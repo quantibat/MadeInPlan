@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="561.565 3688.719 54.869 64.028">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1 {
+        stroke: rgba(33,45,89,0.75);
+      }
+
+      .cls-2 {
+        stroke: #43525b;
+        stroke-linecap: round;
+      }
+
+      .cls-3 {
+        fill: #2ecc71;
+      }
+
+      .cls-4 {
+        fill: #f15a24;
+      }
+    </style>
+  </defs>
+  <g id="todolist" transform="translate(562.077 3689.231)">
+    <path id="Path_2" data-name="Path 2" class="cls-1" d="M135.666,57.87l-30.66,5.8a7.612,7.612,0,0,1-8.889-6.055l-7.987-42a7.612,7.612,0,0,1,6.055-8.889l30.66-5.8a7.612,7.612,0,0,1,8.889,6.055l7.987,42a7.679,7.679,0,0,1-6.055,8.889Z" transform="translate(-87.996 -0.796)"/>
+    <line id="Line_1" data-name="Line 1" class="cls-2" y1="2.834" x2="15.072" transform="translate(23.708 11.727)"/>
+    <line id="Line_2" data-name="Line 2" class="cls-2" y1="2.834" x2="15.072" transform="translate(26.929 28.603)"/>
+    <line id="Line_3" data-name="Line 3" class="cls-2" y1="2.834" x2="15.072" transform="translate(30.149 45.479)"/>
+    <path id="Path_3" data-name="Path 3" class="cls-3" d="M99.8,18.563l-1.8.257A3.161,3.161,0,0,1,94.4,16.375L94.01,14.7A3.161,3.161,0,0,1,96.456,11.1l1.674-.386a3.161,3.161,0,0,1,3.605,2.446l.386,1.674A3.142,3.142,0,0,1,99.8,18.563Z" transform="translate(-86.276 2.048)"/>
+    <path id="Path_4" data-name="Path 4" class="cls-4" d="M102.278,31.639l-1.675.386A3.163,3.163,0,0,1,97,29.578L96.61,27.9A3.163,3.163,0,0,1,99.057,24.3l1.675-.386a3.163,3.163,0,0,1,3.607,2.448l.386,1.675a3.163,3.163,0,0,1-2.448,3.607Z" transform="translate(-85.526 5.853)"/>
+    <path id="Path_5" data-name="Path 5" class="cls-4" d="M104.778,44.639l-1.675.386A3.163,3.163,0,0,1,99.5,42.578L99.11,40.9a3.163,3.163,0,0,1,2.448-3.607l1.675-.386a3.163,3.163,0,0,1,3.607,2.448l.386,1.675a3.092,3.092,0,0,1-2.448,3.607Z" transform="translate(-84.806 9.6)"/>
+  </g>
+</svg>

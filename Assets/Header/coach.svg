@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 35.992 34.272">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffdc64;
+        stroke: #212d59;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 0.9px;
+      }
+    </style>
+  </defs>
+  <path id="coach" class="cls-1" d="M19.546,2l5.422,10.984,12.124,1.772L28.319,23.3l2.07,12.072-10.843-5.7L8.7,35.372,10.773,23.3,2,14.756l12.124-1.772Z" transform="translate(-1.55 -1.55)"/>
+</svg>

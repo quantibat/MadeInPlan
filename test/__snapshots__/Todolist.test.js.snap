@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Todolist Checkbox renders correctly: checkbox 1`] = `"<div id=\\"_prevent\\" class=\\"switch false\\"><span id=\\"_prevent\\"></span></div>"`;

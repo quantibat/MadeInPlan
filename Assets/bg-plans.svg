@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32.511 32.869">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #212d59;
+        opacity: 0.013;
+      }
+
+      .cls-2 {
+        fill: #36497b;
+        opacity: 0.143;
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke: #212d59;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 1.5px;
+      }
+    </style>
+  </defs>
+  <g id="plans" transform="translate(-400.159 -4.73)">
+    <g id="Group_3" data-name="Group 3" transform="translate(400.7 5.2)">
+      <path id="Path_16" data-name="Path 16" class="cls-1" d="M432.143,31.586,427.857,43.3l-3.571-1.286c1.571-4.286-2.714-5.857-2.714-5.857L420,40.443l-4-1.429,2.643-7.214,1.643-4.5Z" transform="translate(-405.071 -11.514)"/>
+      <rect id="Rectangle_1" data-name="Rectangle 1" class="cls-2" width="12.429" height="12.571" transform="translate(15.257 15.761) rotate(-70.001)"/>
+      <path id="Path_17" data-name="Path 17" class="cls-3" d="M414.272,25.486l-2.643,7.143-10.929-4L409.2,5.2l10.929,4-4.286,11.714s-4.643-1.571-6.286,2.857Z" transform="translate(-400.7 -5.2)"/>
+    </g>
+    <g id="XMLID_3_" transform="translate(400.946 5.518)">
+      <g id="Group_4" data-name="Group 4">
+        <path id="Path_18" data-name="Path 18" class="cls-4" d="M436.557,15.3l2.571.929a.743.743,0,0,1,.429.929l-4,11.071-4.071,11a.743.743,0,0,1-.929.429L427.7,38.586" transform="translate(-408.66 -8.403)"/>
+        <path id="Path_19" data-name="Path 19" class="cls-4" d="M423.2,9.1l3.429,1.286,4,1.429" transform="translate(-407.375 -6.632)"/>
+        <path id="Path_20" data-name="Path 20" class="cls-4" d="M415.8,34.256l-4-1.429-10.286-3.714a.743.743,0,0,1-.429-.929l8-22.072a.743.743,0,0,1,.929-.429l2.071.786" transform="translate(-401.045 -5.645)"/>
+        <line id="Line_5" data-name="Line 5" class="cls-4" x2="7.357" y2="2.643" transform="translate(19.468 17.111)"/>
+        <path id="Path_21" data-name="Path 21" class="cls-4" d="M423.771,10.9l-4.286,11.714s-4.643-1.571-6.286,2.857l4.643,1.714L415.2,34.329" transform="translate(-404.518 -7.146)"/>
+        <path id="Path_22" data-name="Path 22" class="cls-4" d="M425.986,45.557c1.571-4.286-2.714-5.857-2.714-5.857L421.7,43.986" transform="translate(-406.946 -15.375)"/>
+      </g>
+    </g>
+  </g>
+</svg>
