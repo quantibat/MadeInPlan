@@ -1,5 +1,5 @@
 // index.js
-
+require('dotenv').config();
 const express = require('express');
 const app = express();
 const morgan = require('morgan');
@@ -54,7 +54,7 @@ else if (process.env.NODE_ENV === 'preprod') domain = '.myeconomiste.com';
 
 app.use(cookieSession({
     name: 'session',
-    keys: ['leRoseauPlitMaisNeCedeQuandCasDePepin'],
+    keys: [process.env.SESSION_SECRET],
     maxAge: 24 * 60 * 60 * 1000 * 30, // 1 month
     domain: domain
 }));

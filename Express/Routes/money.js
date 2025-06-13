@@ -3,7 +3,7 @@ const nodemailer = require('nodemailer');
 const nodemailer_smtp = require('nodemailer-smtp-transport');
 const async = require('async');
 const crypto = require('crypto');
-const stripe = require('stripe')('sk_test_bIJr3htLjLBGyMceX9odzvvS');
+const stripe = require('stripe')(process.env.STRIPE_SECRET_KEY);
 const moneyRouter = express.Router();
 
 const User = require('../Models/User');
