@@ -5,7 +5,6 @@ const async = require('async');
 const crypto = require('crypto');
 const stripe = require('stripe')(process.env.STRIPE_SECRET_KEY);
 const moneyRouter = express.Router();
-
 const User = require('../Models/User');
 
 var isLoggedIn = function (req, res, next) {
