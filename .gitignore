@@ -1,0 +1,34 @@
+# Node modules
+node_modules/
+
+# Build files
+Dist/
+Upload/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv files (en local uniquement)
+.env
+.env.local
+.env.production
+.env.preprod
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Test coverage
+coverage/
+
+# Optional npm cache directory
+.npm/
+
+# Misc
+*.tgz
